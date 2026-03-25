@@ -1,0 +1,84 @@
+{
+    "name": "-shaz-react-rich-text-editor",
+    "version": "0.1.0",
+    "keywords": [
+        "react",
+        "editor",
+        "text-editor",
+        "rich-text",
+        "tailwind",
+        "lucide"
+    ],
+    "author": {
+        "name": "Sai Sashreek D"
+    },
+    "license": "MIT",
+    "_id": "-shaz-react-rich-text-editor@0.1.0",
+    "maintainers": [
+        {
+            "name": "saisashreek",
+            "email": "dsaisashreek@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/saisashreek2692/-shaz-React-Rich-Text-Editor#readme",
+    "bugs": {
+        "url": "https://github.com/saisashreek2692/-shaz-React-Rich-Text-Editor/issues"
+    },
+    "dist": {
+        "shasum": "8dd349d80a6ecc6bb6da9cb4963ffbef54447ad9",
+        "tarball": "https://registry.npmjs.org/-shaz-react-rich-text-editor/-/-shaz-react-rich-text-editor-0.1.0.tgz",
+        "fileCount": 188,
+        "integrity": "sha512-WlomoXRy+01HHVXpAG6GFrgKpxQ0dzcZ4TRosBLYMTjcwXaCCn9r/UP+G6QEtuzUnVlVdnj07LYRFD9wS3+b0A==",
+        "signatures": [
+            {
+                "sig": "MEUCIQC6lPUP8bPL8k6/6LwHHTaRPGe+SnTZJbLmbGehlSft9QIgIYjWL1I8u95iT8N7ubDA6FDAC2mFIxobgk5+efofgy4=",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 20158522
+    },
+    "public": true,
+    "gitHead": "a84a78f2fa2f12f0112531422d8cd48a17c3ac5a",
+    "scripts": {
+        "dev": "next dev --turbopack",
+        "lint": "next lint",
+        "build": "next build",
+        "start": "next start"
+    },
+    "_npmUser": {
+        "name": "saisashreek",
+        "email": "dsaisashreek@gmail.com"
+    },
+    "repository": {
+        "url": "git+https://github.com/saisashreek2692/-shaz-React-Rich-Text-Editor.git",
+        "type": "git"
+    },
+    "_npmVersion": "11.4.1",
+    "description": "A lightweight rich text editor for React with formatting tools. Created this Text Editor for ReactJS Applications, It supports from version 18+.",
+    "directories": {},
+    "_nodeVersion": "22.14.0",
+    "dependencies": {
+        "next": "15.3.3",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "lucide-react": "^0.515.0",
+        "@tailwindcss/typography": "^0.5.16"
+    },
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "eslint": "^9",
+        "postcss": "^8.5.5",
+        "tailwindcss": "^3.4.17",
+        "autoprefixer": "^10.4.21",
+        "@eslint/eslintrc": "^3",
+        "eslint-config-next": "15.3.3"
+    },
+    "peerDependencies": {
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/-shaz-react-rich-text-editor_0.1.0_1750076589813_0.8098888946939706",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}

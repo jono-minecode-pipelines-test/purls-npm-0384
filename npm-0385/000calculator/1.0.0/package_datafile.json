@@ -1,0 +1,55 @@
+{
+    "name": "000calculator",
+    "version": "1.0.0",
+    "description": "This is a simple calculator with typescript Node.js and inquirer",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "000calculator": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Fariha"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "000calculator@1.0.0",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-bQoUPDv+LllCx+jq1WtlvvUEFvynVPDFdNUVD/olxEZbBOK6u54qKQv/FrbcoiAhL8wo4+t+m1gV/HKQVgG7UA==",
+        "shasum": "41d4640374188a7264735ae8c5966867956283eb",
+        "tarball": "https://registry.npmjs.org/000calculator/-/000calculator-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14803,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIBntKIouLjXJM0wt4QePadeua8RCQeTUgzblYhRTajalAiEArHCU3lLPPd3MqC2KIbuFCxK6Q1jvwx6F0X/WP/RgmQI="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "fariha2024",
+        "email": "farihaahson1@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "fariha2024",
+            "email": "farihaahson1@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/000calculator_1.0.0_1711507910794_0.22705246305115834"
+    },
+    "_hasShrinkwrap": false
+}

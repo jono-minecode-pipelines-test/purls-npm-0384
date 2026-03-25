@@ -1,0 +1,44 @@
+{
+    "name": "--only-prod",
+    "version": "1.0.0",
+    "description": "Typesquatting test",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "--only-prod@1.0.0",
+    "_nodeVersion": "16.17.0",
+    "_npmVersion": "8.15.0",
+    "dist": {
+        "integrity": "sha512-KN19tNWI01xy3VdtpHvbbGz9Sz6WkasnPPW6IB2HbOwusbpD8d4/Ov7C4qJuSeuyz2yAXCGQFJ3UFYQobFhmjg==",
+        "shasum": "0bd89ce60e4bc58d505cb1f00f41a655c573ba29",
+        "tarball": "https://registry.npmjs.org/--only-prod/-/--only-prod-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 249,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDGEhwF4BqE3IdOx9I6JcDrXltX04QpcwNdbSsF1lFnRgIhAJXhulnWeXa7wuOuekodzmOb/hb0bBF37z38U3zCkdNW"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjJVE9ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqEVg//Qgpa1IgBLNKCZxp4Mp/qvn/UITTajXBthYvEoJipa95/sWlg\r\nLRuF1z/k6f0ADyymB8VAzZB6NEVXkkI6y+zkaAcMZ2BJZ842OZZ7GYPZf7Jk\r\nFKN3XJVzzLImDvhwuWkB4J0Ney7SRWpRCSqXmcfY1NlGDLexqNVobb8rtZkq\r\na2tVBwDizUff/hDOZ+Tmg/3t5RYlBvuuUIXhMWvDY4LMIkpdiR8Gh7SkU2YM\r\n6pgbg12HxuglD91Bz2MMKllr0GvzslsqgGPOA7lEafNyzdwTVpggMBSsXWoX\r\nzFmMSa9VnhOoh1Y+FbGTXcav65FmWDA4BE2Ehikvy0eb2ORpCfXosuCgDWAX\r\nERjzEoeLoXQEt3+4WWZTtISjXr+mTagsPWcx0Fi5Cv+LGcZdKxpUaROWLoH4\r\nV5ObZtrnrqKWXZuZpkNLEKPhUUQpo9xE6avQo6K/PZLU7KzVrcgk58Df7pV5\r\ncH03WRzkGPsLcUcZeVbKwyOAXOua3V+Lx1Gh0OxmQVp11Zx4TRISsTiIuarp\r\nOyQq4P6Rp+4tC5FtEnQktbs1wHvJDuWqsE64wUbp4DFUtB9ja8BCOCC/joJt\r\nfMwyhIJvLoZxAc3lH9IZ9gGC9u4lojwCDdRE4qKU4KuZ9/l0OE4A891eSIMk\r\nz8F0MnDYGBxcEqQ7XQp4XZi+en5DIGbchL4=\r\n=jZE2\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "sgpinkus",
+        "email": "sgpinkus@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "sgpinkus",
+            "email": "sgpinkus@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/--only-prod_1.0.0_1663390013079_0.4699918376953143"
+    },
+    "_hasShrinkwrap": false
+}
